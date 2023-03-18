@@ -7,6 +7,7 @@ int main(void)
 {
 	char lower_case = 'a';
 	char upper_case = 'A';
+
 	while (lower_case <= 'z')
 	{
 		putchar(lower_case);
